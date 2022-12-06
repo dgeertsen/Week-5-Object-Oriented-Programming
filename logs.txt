@@ -1,0 +1,4 @@
+INFO: Mon Dec 05 17:32:42 MST 2022 - Hello
+WARNING: Mon Dec 05 17:32:42 MST 2022 - Hello
+ERROR: Mon Dec 05 17:32:42 MST 2022 - Hello
+FATAL: Mon Dec 05 17:32:42 MST 2022 - Hello
