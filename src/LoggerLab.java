@@ -1,5 +1,5 @@
 
-public interface Logger {
+public interface LoggerLab {
 		
 	public void info(String info);
 	public void warning(String warning);

@@ -1,6 +1,6 @@
 import java.util.Date;
 
-public class ConsoleLogger implements Logger{
+public class ConsoleLogger implements LoggerLab{
 
 	@Override
 	public void info(String info) {
