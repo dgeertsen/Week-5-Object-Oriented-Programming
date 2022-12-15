@@ -1,7 +1,7 @@
 
 public class AsteriskLogger implements Logger {
 	//AsteriskLogger Class
-	
+	//Only has the two methods from interface
 	public void log(String log) {
 		System.out.println("***"+log+"***");
 	}

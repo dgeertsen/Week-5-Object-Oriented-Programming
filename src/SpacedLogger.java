@@ -1,14 +1,15 @@
 
 public class SpacedLogger implements Logger{
 	//SpacedLogger Class
-	@Override
+	//Has the two methods from interface
+	//Also has a private method to make string spaced.
 	public void log(String log) {
 		System.out.println(this.spaceStr(log));
+		
 	}
 
 		
 
-	@Override
 	public void error(String error) {	
 		System.out.println("ERROR: "+this.spaceStr(error));
 	
